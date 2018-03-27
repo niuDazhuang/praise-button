@@ -1,10 +1,11 @@
 {
-  "presets": [
-    "env",
-    "stage-2"
-  ]
-  // 测试时开启
-  // "plugins": [
-  //   "transform-es2015-modules-umd"
-  // ]
+  "presets": ["env", "stage-2"],
+  "env": {
+    "test": {
+      "presets": ["env", "stage-2"],
+      "plugins": [
+        ["transform-es2015-modules-umd"]
+      ]
+    }
+  }
 }

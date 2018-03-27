@@ -2,6 +2,8 @@ import $ from 'jquery'
 import All from './praise'
 import './style/index.css'
 
+console.log('-*---', All)
+
 const { Thumb } = All
 
 new Thumb({

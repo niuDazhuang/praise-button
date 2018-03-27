@@ -14,6 +14,7 @@ export default class PraiseButton {
   add () {
     this.times++
     this.onTimesChange(this.times)
+    return this.times
   }
 
   _onTimesChange () {}
