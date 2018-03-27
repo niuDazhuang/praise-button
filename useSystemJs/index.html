@@ -1,0 +1,32 @@
+
+  <link rel="stylesheet" href="/style/index.css">
+  
+  <div class="wrapper">
+    <div class="thumb"></div>
+    <div class="show_times"></div>
+  </div>
+
+  <script src="https://cdn.bootcss.com/systemjs/0.21.0/system.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+  <script>
+    
+    var events = {
+      updateTimes: function (text) {
+        $('.show_times').text(text)
+      }
+    }
+
+    SystemJS.import('/js/index.js').then(res => {
+      const Thumb = res.default.Thumb
+      $.fn.extend({initThumb: function (times, onChange) {
+        return new Thumb({
+          el: this,
+          times: times,
+          onTimesChange: onChange
+        })
+      }})
+      $('.thumb').initThumb(6, events.updateTimes)
+    })
+
+  </script>
+

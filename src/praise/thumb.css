@@ -1,0 +1,222 @@
+.dz-wrapper {
+  width:60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.dz-wrapper:hover {
+  opacity: .6
+}
+.dz-hand {
+  position: relative;
+  width: 600px;
+  height: 572px;
+  transform: scale(0.1, 0.1);
+  left:-50%;
+}
+.damuzhi1 {
+  position: absolute;
+  bottom: 304px;
+  left: 166px;
+  width: 105px;
+  height: 100px;
+  border-bottom: 40px solid #000;
+  border-right: 40px solid #000;
+  border-radius: 0 0 125px/117px 0;
+  background-color: #fff;
+  transform: skew(-8deg);
+}
+.damuzhi1::after {
+  position: absolute;
+  right: -39px;
+  top: -30px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+  transform: skew(4deg);
+  border-radius: 0 6px 0 0;
+}
+.damuzhi2::before {
+  position: absolute;
+  left: -40px;
+  bottom: -30px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+}
+.damuzhi2 {
+  position: absolute;
+  bottom: 498px;
+  left: 271px;
+  width: 75px;
+  height: 30px;
+  border-top: 40px solid #000;
+  border-left: 40px solid #000;
+  border-right: 40px solid #000;
+  border-radius: 100px 100px 0 0;
+  background-color: #fff;
+  transform: skew(10deg);
+}
+.damuzhi2::after {
+  position: absolute;
+  right: -42px;
+  bottom: -30px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+  transform: skew(7deg);
+}
+.damuzhi3::before {
+  position: absolute;
+  right: 3px;
+  top: -30px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+  transform: skew(11deg);
+}
+.damuzhi3 {
+  position: absolute;
+  left: 408px;
+  bottom: 410px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+  transform: skew(2deg);
+}
+.damuzhi3::after {
+  position: absolute;
+  right: 3px;
+  bottom: -30px;
+  content: '';
+  display: block;
+  width: 40px;
+  height: 30px;
+  background-color: #000;
+  transform: skew(-12deg);
+}
+.shizhi1 {
+  position: absolute;
+  left: 400px;
+  top: 186px;
+  height: 40px;
+  width: 144px;
+  background-color: #000;
+  transform: skew(-14deg);
+}
+.shizhi2 {
+  position: absolute;
+  left: 455px;
+  top: 185px;
+  height: 146px;
+  width: 144px;
+  background-color: #000;
+  border-radius: 0 42% 42% 0;
+}
+.shizhi2::after {
+  content: '';
+  position: absolute;
+  left: -64px;
+  top: 41px;
+  height: 65%;
+  width: 171px;
+  background-color: #fff;
+  border-radius: 48px/53px;
+  z-index: 10;
+}
+.zhongzhi {
+  position: absolute;
+  left: 455px;
+  top: 280px;
+  height: 134px;
+  width: 144px;
+  background-color: #000;
+  border-radius: 0 42% 42% 0;
+}
+.zhongzhi::after {
+  content: '';
+  position: absolute;
+  left: -64px;
+  top: 25px;
+  height: 95px;
+  width: 171px;
+  background-color: #fff;
+  border-radius: 0 38% 42% 0;
+  z-index: 10;
+}
+.wumingzhi {
+  position: absolute;
+  left: 434px;
+  top: 376px;
+  height: 114px;
+  width: 144px;
+  background-color: #000;
+  border-radius: 0 42% 42% 0;
+}
+.wumingzhi::after {
+  content: '';
+  position: absolute;
+  left: -64px;
+  top: 16px;
+  height: 79px;
+  width: 174px;
+  background-color: #fff;
+  border-radius: 40px/31px;
+  z-index: 10;
+}
+.xiaomuzhi:before {
+  content: '';
+  position: absolute;
+  left: -67px;
+  bottom: 12px;
+  height: 39px;
+  width: 69px;
+  background-color: #000;
+  transform: skew(0, 19deg);
+  z-index: 20;
+}
+.xiaomuzhi {
+  position: absolute;
+  left: 266px;
+  top: 452px;
+  height: 117px;
+  width: 284px;
+  background-color: #000;
+  border-radius: 0 42% 42% 0;
+}
+.xiaomuzhi::after {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: -4px;
+  height: 82px;
+  width: 91%;
+  background-color: #fff;
+  border-radius: 0 52% 37% 0;
+  z-index: 10;
+}
+
+
+.xiuzi {
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+  width: 100px;
+  height: 282px;
+  border: 40px solid #000;
+  border-radius: 60px 40px 40px 60px;
+  transform: skew(6deg);
+  background-color: #fff;
+}
