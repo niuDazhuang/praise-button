@@ -1,0 +1,32 @@
+{% extends '../layouts/layout.html' %}
+
+{% block title %}
+  welcome home
+{% endblock %}
+
+{% block head %}
+  <link rel="stylesheet" href="/css/home.css">
+{% endblock %}
+
+{% block content %}
+
+{{ total }}
+{{ size }}
+
+<ul>
+  {% for item in list %}
+  <li class="cell">
+    <div class="cell-left">
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.content }}</p>
+    </div>
+    <div class="cell-right">
+      <div class="thumb" data-id="{{ item.id }}"></div>
+      <div class="show_times">{{ item.num }}</div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+<script src="/js/thumb.js"></script>
+{% endblock %}

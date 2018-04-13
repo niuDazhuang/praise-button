@@ -1,0 +1,20 @@
+@import '../praise/thumb.css';
+body {
+  background: #f0f5fc;
+}
+.thumb {
+  display: flex;
+}
+.show_times {
+  margin-left: 10px;
+  font-size: 30px;
+  font-weight: 100;
+}
+.cell {
+  display: flex;
+  margin-bottom: 20px;
+}
+.cell-left {
+  width: 600px;
+  margin-right: 20px;
+}
