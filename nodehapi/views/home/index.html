@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="/css/home.css">
+
+{{ total }}
+{{ size }}
+
+<ul>
+  {{#each list}}
+  <li class="cell">
+    <div class="cell-left">
+      <h3>{{ title }}</h3>
+      <p>{{ content }}</p>
+    </div>
+    <div class="cell-right">
+      <div class="thumb" data-id="{{ id }}"></div>
+      <div class="show_times">{{ num }}</div>
+    </div>
+  </li>
+  {{/each}}
+</ul>
+
+<script src="/js/thumb.js"></script>
+
