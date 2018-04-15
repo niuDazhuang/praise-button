@@ -1,0 +1,255 @@
+{
+  "keys": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js",
+    "mapping": {
+      ".html": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js"
+    },
+    "root": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "cache": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultExtension": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "news": {
+    "total": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js",
+    "list": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js"
+  },
+  "robot": {
+    "ua": "/Users/dengweimin/Desktop/praise-button/nodegg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "useSession": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "cookieName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "sessionName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "headerName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "bodyName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "queryName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "maxAge": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "policy": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "checkAddress": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "dir": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "preload": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "buffer": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js"
+  },
+  "env": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "name": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "proxy": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "version": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "description": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "main": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "test": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "cov": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    },
+    "keywords": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "author": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "license": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "HOME": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "rundir": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "notFound": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "sitefile": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "middlewares": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "httpClient": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "encoding": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "formLimit": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "strict": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "depth": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "encoding": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "env": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "level": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "outputJSON": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "buffer": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.unittest.js",
+    "appLogName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "coreLogName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "agentLogName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "errorLogName": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "coreLogger": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "maxSockets": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "maxSockets": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+    "logging": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "port": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js",
+      "hostname": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/dengweimin/Desktop/praise-button/nodegg/node_modules/_egg@2.6.1@egg/config/config.default.js"
+}
